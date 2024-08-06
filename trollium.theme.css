@@ -1,0 +1,43 @@
+/**
+ * @name Trollium
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/MaterialYou.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+
+:root {
+  --undefined: 0;
+  --color1: 50,30,30;
+  --color2: 24,9,9;
+  --color3: 200,35,35;
+  --undefined: 0;
+  --ColorOpacity: 0.5;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://tenor.com/en-GB/view/phonk-trollge-gif-25270558.gif');
+  --undefined: 0;
+  --FVUI: Trollium;
+  --customdesc: hello;
+  --image: url('https://github.com/aimankhali/Trollium/blob/main/Background/Troll.gif?raw=true');
+  --OpacityBG: 54%;
+  --BlurBG: 0px;
+  --accentcolor-HUE: 0;
+  --accentcolor-SATURATION: 255%;
+}
+
+/* Any custom CSS below here */
+
+
