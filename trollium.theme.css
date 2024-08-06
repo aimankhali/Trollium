@@ -1,12 +1,10 @@
 /**
  * @name Trollium
- * @author FeoreV
- * @version 2.0.0
- * @description Blur is the new black
- * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
- * @invite baEMQkgswT
- * @website https://feorev.github.io/
- * @authorId 489785940546551831
+ * @author aimankhalli
+ * @version 1.0.0
+ * @description inspired by gmod trollface videos
+ * @source https://github.com/aimankhali/Trollium
+ * @authorId 1150517641333715105
  * @BDEditor FVUI
 */
 
@@ -37,7 +35,5 @@
   --accentcolor-HUE: 0;
   --accentcolor-SATURATION: 255%;
 }
-
-/* Any custom CSS below here */
 
 
